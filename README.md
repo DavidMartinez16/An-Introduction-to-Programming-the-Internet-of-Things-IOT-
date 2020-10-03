@@ -15,4 +15,4 @@ The following are the specialization courses.
 
 ## Specialization created by
 
-[University of California](https://user-images.githubusercontent.com/63115543/95000772-60f10a00-0589-11eb-8146-41085981cc0e.png)
+[University of California](https://user-images.githubusercontent.com/63115543/95000808-ac0b1d00-0589-11eb-9dfe-f6c8b438cfc2.png)
