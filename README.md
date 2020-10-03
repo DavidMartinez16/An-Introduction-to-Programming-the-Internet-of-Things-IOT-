@@ -13,6 +13,6 @@ The following are the specialization courses.
 * Interfacing with the Raspberry Pi
 * Programming for the Internet of Things Project
 
-## Specialization created by
+## Specialization Created By
 
 ![University of California](https://user-images.githubusercontent.com/63115543/95000808-ac0b1d00-0589-11eb-9dfe-f6c8b438cfc2.png)
